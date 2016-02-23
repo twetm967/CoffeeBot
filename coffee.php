@@ -15,6 +15,7 @@ echo '
 		<title>Coffee Controller</title>
 	</head>
 <body>
+    <h1>did it work?</h1>
     <form method="post">
     <div style="width: 100%; height: 100%; text-aling: center;">
     <p>
